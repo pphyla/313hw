@@ -1,0 +1,18 @@
+# Compiled executables
+measure
+measure_asan
+test_stack
+test_student
+
+# macOS debugging symbols
+*.dSYM/
+
+# Object files
+*.o
+
+# macOS system files
+.DS_Store
+
+# Editor temporary files
+*.swp
+*~
